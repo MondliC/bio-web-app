@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 /*CSS code*/
 body{
-	 background :#A9A587;
-	 padding:20px;
-	 color : white;
+	 background :white;
+	 padding:px;
+	 color : black;
 	 text-align : center;
 	 font-family: 'Poppins',sans-serif;
  }
@@ -11,22 +11,7 @@ body{
 	 font-size:large;
  }
  p{
-	 font-size:small;
+	 font-size:large;
  }
- a{
-	 text-decoration:none;
-	 color:white;
- }
-img{
-	 width : 50%;
-	 border-radius:50%;
-}
 
-.btn{
-	display : block;
-	color : black;
-	padding:20px;
-	background:white;
-	margin : 16px;
-	box-shadow: 10px 10px 5px lightblue;
-}
+
